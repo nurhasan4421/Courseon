@@ -1,0 +1,35 @@
+.logo img{
+    height: 40px;
+    width: 250px;
+    position: relative;
+    left: 80px;
+}
+.removing-border{
+    border: 0;
+}
+
+.shopping-cart img{
+    height: 40px;
+    width: 40px;
+}
+.removing-footer{
+    border: 0;
+    background-color: white;
+
+}
+.footer-imgages img{
+    height: 100px;
+    width: 100px;
+    
+}
+.rm-r img{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    left: 50px;
+}
+.footer-radius{
+    border-radius:20px;
+}
+
+
