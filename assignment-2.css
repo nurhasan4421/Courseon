@@ -1,3 +1,7 @@
+#transaction-area{
+    display: none;
+}
+
 .logo img{
     height: 40px;
     width: 250px;
