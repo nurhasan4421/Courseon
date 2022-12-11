@@ -3,7 +3,7 @@ const loginButton = document.getElementById("login");
 loginButton.addEventListener("click", function(){
     const loginArea = document.getElementById("login-area");
     loginArea.style.display = "none";
-    const transactionArea = document.getElementById("transaction-area");
+    const transactionArea = document.getElementById("content-area");
     const emailInfo = document.getElementById("email").value;
     const passwordInfo = document.getElementById("password").value;
     if(emailInfo == "" && passwordInfo == ""){
